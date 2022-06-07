@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on nothing much, really. At least, not yet.
 - 📫 How to send me messages: don't.
+- I'm currently thinking about working on a game abut law (court cases, ect.)
+- As I'm only 11, I'm not very good at these things, haha.
+
 
 <!---
 CatX711/CatX711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
