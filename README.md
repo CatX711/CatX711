@@ -18,7 +18,14 @@ Tardis, for... some reason? I don't know. Still, I had a blast making it, and re
 told me about ever since 2020. Github! CatX711 was born!
 I recorded as much stuff in there as possible, and plenty more was tucked away in PyCharm.
 But, alas, after a solid 7 months or so, I bored. Again. 🤦‍♂️
+Recently, I got back into coding. It's been very fun, and I hope to not get bored of it anymore.
+I love harnessing my imagination and knowledge of python to make my own little stories.
+My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS and it's revamped version (which I have not uploaded to github)
+and Coffee Game, my first, proper, meaningful game that's kind of fun to play.
 
+### ⭐️ Things that inspire me! ⭐️
+
+My dad (of course), as my mum doesn't really like programming, and, weirdly enough... ctiptopper, the full stack developer, who follows me for some reason. Thanks for the follow, mate! 😉
 
 
 
