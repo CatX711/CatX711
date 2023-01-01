@@ -16,8 +16,8 @@ Sadly, the laptop no longer works, but I can still remember some of the code. It
 After that, I got bored again, and took a year long break. After that, I randomly had an idea to make a game about the...
 Tardis, for... some reason? I don't know. Still, I had a blast making it, and recorded it all in something my dad had
 told me about ever since 2020. Github! CatX711 was born!
-I recorded as much stuff in there as possible, and plenty more was tucked away in PyCharm.
-But, alas, after a solid 7 months or so, I bored. Again. 🤦‍♂️
+I recorded as much stuff in there as possible, like Coffee Game and Forge-Battle, and plenty more was tucked away in PyCharm.
+But, alas, after a solid 7 months or so, I got bored. Again. 🤦‍♂️
 Recently, I got back into coding. It's been very fun, and I hope to not get bored of it anymore.
 I love harnessing my imagination and knowledge of python to make my own little stories.
 My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS and it's revamped version (which I have not uploaded to github)
