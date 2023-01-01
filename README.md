@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @CatX711, and I'm using this template, made by the gods of GitHub themselves.
-- 👀 I’m interested in lots of things, eg. bookwriting, programming, drawing, ect.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on nothing much, really. At least, not yet.
-- 📫 How to send me messages: don't.
-- Working on 'Learn Python' where I explain Python for beginners and add new things as I learn them.
-- As I'm only 11, I'm not very good at these things, haha.
+# Hey! 👋 I'm Daniel!
+
+Hello! 😀 I'm CatX711, or, you may (or most likely may not) know me as Daniel Catarig.
+I'm a 12 year old kid, who's currently working a lot on his coding projects, supported by 
+his father (tu2- go check him out. He codes some cool stuff!).
+I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.
+
+## How I started Programming and Various Stuff I've Done 💻
+
+I wrote my first lines of code when I was around 6/7. I can still remember my dad trying to teach me some very basic python.
+It must've been pretty hard, haha. Eventually, after half an hour of getting to know stuff, I managed to write
+some extremely simple programs. It wasn't a lot, but back then, I felt like the smartest human alive.
+Sadly, after that, I never really got back into programming. Until 2020.
+My dad and I found a spare laptop in our garage, and I started using it to make python stuff.
+Sadly, the laptop no longer works, but I can still remember some of the code. It was primitive, sure. But full of passion.
+After that, I got bored again, and took a year long break. After that, I randomly had an idea to make a game about the...
+Tardis, for... some reason? I don't know. Still, I had a blast making it, and recorded it all in something my dad had
+told me about ever since 2020. Github! CatX711 was born!
+I recorded as much stuff in there as possible, and plenty more was tucked away in PyCharm.
+But, alas, after a solid 7 months or so, I bored. Again. 🤦‍♂️
+
+
 
 
 <!---
