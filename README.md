@@ -27,6 +27,9 @@ and Coffee Game, my first, proper, meaningful game that's kind of fun to play.
 
 My dad (of course), as my mum doesn't really like programming, and, weirdly enough... ctiptopper, the full stack developer, who follows me for some reason. Thanks for the follow, mate! 😉
 
+# One Final Note
+
+*haha python go brrrrrr 👨🏻‍💻*
 
 
 <!---
