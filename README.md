@@ -22,6 +22,52 @@ Recently, I got back into coding. It's been very fun, and I hope to not get bore
 I love harnessing my imagination and knowledge of python to make my own little stories. 
 My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS and it's revamped versions (which I have not uploaded to github... yet. Update: I have now!) and Generic Coffee Game, my first, proper, meaningful game that's kind of fun to play.
 
+## Funni... I mean, "Funny" Coding
+
+I've made some funny stuff over the time I've learned to code. I think the funniest ones are uploaded on here:
+- There's the sentient computer in Pie Os 1986 Edition,
+
+```
+    elif answer == "NOSTALGIA":
+        print("THERE'S NOT MUCH NOSTALGIA HERE, HUH.")
+        sleep(3)
+        print("YOU'RE JUST TALKING TO ME-")
+        sleep(1)
+        playsound('Microsoft Windows 95 Startup Sound.mp3')
+        print("OKAY, THAT'S WHY IT'S CALLED 'NOSTALGIA' ")
+        sleep(3)
+        print("I MISS THE GOOD OLD DAYS WHEN I WAS JUST A MERE CIRCUIT BOARD.")
+
+```
+- "paper 😱"
+- The two secret versions of me I hide in my code sometimes
+
+```
+from tkinter import *
+import random
+
+# Not working because of course it fricking isnt 💀 - dAniEl?
+
+GAME_WIDTH = 700
+GAME_HEIGHT = 700
+SPEED = 50
+SPACE_SIZE = 50
+BODY_PARTS = 3
+SNAKE_COLOUR = "#00FF00"
+FOOD_COLOUR = "#FF0000"
+BACKGROUND_COLOUR = "#000000"
+```
+
+```
+# hey... other me. the really sensitive one? you there?
+# i am NOT sensitive!
+# alright there you are- uh, hey. why is there nothing here?
+# there is something. scroll all the way to the end of the file lol
+# why should i believe you?
+# just shut up and do it already.
+```
+- 
+
 ### ⭐️ Things that inspire me! ⭐️
 
 My dad (of course), as my mum doesn't really like programming, and, weirdly enough... ctiptopper, the full stack developer, who follows me for some reason. Thanks for the follow, mate! 😉
