@@ -66,7 +66,11 @@ BACKGROUND_COLOUR = "#000000"
 # why should i believe you?
 # just shut up and do it already.
 ```
-- 
+- "Adventure Game" because you can die so easily lol.
+
+So yeah, there's a lotta' funny stuff!
+
+
 
 ### ⭐️ Things that inspire me! ⭐️
 
