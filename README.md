@@ -22,7 +22,7 @@ Recently, I got back into coding. It's been very fun, and I hope to not get bore
 I love harnessing my imagination and knowledge of python to make my own little stories. 
 My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS and it's revamped versions (which I have not uploaded to github... yet. Update: I have now!) and Generic Coffee Game, my first, proper, meaningful game that's kind of fun to play.
 
-## Funni... I mean, "Funny" Coding
+## "Funny" Coding
 
 I've made some funny stuff over the time I've learned to code. I think the funniest ones are uploaded on here:
 - There's the sentient computer in Pie Os 1986 Edition,
