@@ -1,18 +1,5 @@
 # Hey! 👋 I'm Daniel!
 
- <!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html> 
-
 Hello! 😀 I'm CatX711, or, you may (or most likely may not) know me as Daniel Catarig.
 I'm a 12 year old kid, who's currently working a lot on his coding projects, supported by 
 his father (tu2- go check him out. He codes some cool stuff! https://github.com/tu2).
