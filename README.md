@@ -2,7 +2,7 @@
 
 Hello! 😀 I'm CatX711, or, you may (or most likely may not) know me as Daniel Catarig.
 I'm a 12 year old kid, who's currently working a lot on his coding projects, supported by 
-his father (tu2- go check him out. He codes some cool stuff!).
+his father (tu2- go check him out. He codes some cool stuff! https://github.com/tu2).
 I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.
 
 ## How I started Programming and Various Stuff I've Done 💻
