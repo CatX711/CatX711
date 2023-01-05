@@ -70,7 +70,9 @@ BACKGROUND_COLOUR = "#000000"
 
 So yeah, there's a lotta' funny stuff!
 
+## Website!
 
+Yes, I have a website! All coded by me on my own to test my html skills. I have the code in one of my repositories.
 
 ### ⭐️ Things that inspire me! ⭐️
 
