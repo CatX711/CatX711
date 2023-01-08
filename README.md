@@ -74,9 +74,9 @@ So yeah, there's a lotta' funny stuff!
 
 Yes, I have a website (now multiple)! All coded by me on my own to test my html skills. I have the code in one of my repositories.
 
-### ⭐️ Things that inspire me! ⭐️
+### ⭐️ Things that inspire me! Also.. Other Cool Stuff ⭐️
 
-My dad (of course), as my mum doesn't really like programming, and, weirdly enough... ctiptopper, the full stack developer, who follows me for some reason. Thanks for the follow, mate! 😉
+My dad (of course), as my mum doesn't really like programming, and, a few popular developers, such as Ctiptopper (thanks for the follow, mate!) and insolitum!
 
 # One Final Note
 
