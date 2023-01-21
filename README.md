@@ -5,6 +5,12 @@ I'm a 12 year old kid, who's currently working a lot on his coding projects, sup
 his father (tu2- go check him out. He codes some cool stuff! https://github.com/tu2).
 I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.
 
+# Taking a break: CATX711 OFFLINE.
+I'm currently going to secondary school, so I can't really focus on my coding. That's not to say I WON'T program, but I won't program as much and I won't
+be able to upload here as often. When I have free time, I certainly will though. who knows, maybe the future me will come back to this. :)
+
+- CatX711
+
 ## How I started Programming and Various Stuff I've Done 💻
 
 I wrote my first lines of code when I was around 6/7. I can still remember my dad trying to teach me some very basic python.
