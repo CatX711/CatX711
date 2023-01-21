@@ -27,9 +27,6 @@ My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS a
 Yes, I have a website (now multiple)! All coded by me on my own to test my html skills. I have the code in one of my repositories.
 Sadly, though, I can't seem to get my css to work 😅.
 
-### ⭐️ Things that inspire me! Also.. Other Cool Stuff ⭐️
-
-My dad (of course), as my mum doesn't really like programming, and, a few popular developers, such as Ctiptopper (thanks for the follow, mate!) and insolitum!
 
 # One Final Note
 
