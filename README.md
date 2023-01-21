@@ -9,7 +9,7 @@ I'm not sure how you stumbled upon my profile, but feel free to stay as long as 
 I'm currently going to secondary school, so I can't really focus on my coding. That's not to say I WON'T program, but I won't program as much and I won't
 be able to upload here as often. When I have free time, I certainly will though. who knows, maybe the future me will come back to this. :)
 
-- CatX711
+-- CatX711
 
 ## How I started Programming and Various Stuff I've Done 💻
 
