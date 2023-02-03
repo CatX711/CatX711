@@ -11,6 +11,10 @@ be able to upload here as often. When I have free time, I certainly will though.
 
 -- CatX711
 
+Update: Wow! I'm surprised people are still seeing this! Thanks for all the new followers :)
+However, I can't do much programming anymore, even behind the scenes, as I'm in the process of revising for some tests.
+I'll still check in often!
+
 ## How I started Programming and Various Stuff I've Done 💻
 
 I wrote my first lines of code when I was around 6/7. I can still remember my dad trying to teach me some very basic python.
