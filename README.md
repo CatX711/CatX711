@@ -29,15 +29,10 @@ Recently, I got back into coding. It's been very fun, and I hope to not get bore
 I love harnessing my imagination and knowledge of python to make my own little stories. 
 My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS and it's revamped versions (which I have not uploaded to github... yet. Update: I have now!) and Generic Coffee Game, my first, proper, meaningful game that's kind of fun to play.
 
-## Website!
 
-Yes, I have a website (now multiple)! All coded by me on my own to test my html skills. I have the code in one of my repositories.
-Sadly, though, I can't seem to get my css to work 😅.
+*haha python go brrrrrr 👨🏻‍💻
 
-
-# One Final Note
-
-*haha python go brrrrrr 👨🏻‍💻*
+- Daniel C. *
 
 
 <!---
