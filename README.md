@@ -8,6 +8,7 @@ I'm not sure how you stumbled upon my profile, but feel free to stay as long as 
 # Currently working on: A Discord Bot! 
 
 I am currently working on a discord bot, which i will tamper with in my free time.
+The code will be uploaded soon.
 
 ## How I started Programming and Various Stuff I've Done 💻
 
