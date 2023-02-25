@@ -30,7 +30,6 @@ I recorded as much stuff in there as possible, like Coffee Game and Forge-Battle
 But, alas, after a solid 7 months or so, I got bored. Again. 🤦‍♂️
 Recently, I got back into coding. It's been very fun, and I hope to not get bored of it anymore.
 I love harnessing my imagination and knowledge of python to make my own little stories. 
-My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS and it's revamped versions and Generic Coffee Game, my first, proper, meaningful game that's kind of fun to play.
 
 
 
