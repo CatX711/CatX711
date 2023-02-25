@@ -10,6 +10,8 @@ I'm not sure how you stumbled upon my profile, but feel free to stay as long as 
 I am currently working on a discord bot, which i will tamper with in my free time.
 The code will be uploaded soon.
 
+<img width="705" alt="image" src="https://user-images.githubusercontent.com/104099162/221357300-5665af42-3422-4b3b-822d-49193ac76bf3.png">
+
 ## How I started Programming and Various Stuff I've Done 💻
 
 I wrote my first lines of code when I was around 6/7. I can still remember my dad trying to teach me some very basic python.
