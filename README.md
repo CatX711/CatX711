@@ -33,9 +33,9 @@ My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS a
 
 
 
-*haha python go brrrrrr 👨🏻‍💻 *
+*haha python go brrrrrr 👨🏻‍💻*
 
-* - Daniel C. *
+*- Daniel C.*
 
 
 <!---
