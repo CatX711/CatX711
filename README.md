@@ -30,9 +30,12 @@ I love harnessing my imagination and knowledge of python to make my own little s
 My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS and it's revamped versions (which I have not uploaded to github... yet. Update: I have now!) and Generic Coffee Game, my first, proper, meaningful game that's kind of fun to play.
 
 
-*haha python go brrrrrr 👨🏻‍💻
 
-- Daniel C. *
+
+
+*haha python go brrrrrr 👨🏻‍💻 *
+
+* - Daniel C. *
 
 
 <!---
