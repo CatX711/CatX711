@@ -5,15 +5,9 @@ I'm a 12 year old kid, who's currently working a lot on his coding projects, sup
 his father (tu2- go check him out. He codes some cool stuff! https://github.com/tu2).
 I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.
 
-# Taking a break: CATX711 OFFLINE.
-I'm currently going to secondary school, so I can't really focus on my coding. That's not to say I WON'T program, but I won't program as much and I won't
-be able to upload here as often. When I have free time, I certainly will though. Who knows, maybe the future me will come back to this. :)
+# Currently working on: A Discord Bot! 
 
--- CatX711
-
-Update: Wow! I'm surprised people are still seeing this! Thanks for all the new followers :)
-However, I can't do much programming anymore, even behind the scenes, as I'm in the process of revising for some tests.
-I'll still check in often!
+I am currently working on a discord bot, which i will tamper with in my free time.
 
 ## How I started Programming and Various Stuff I've Done 💻
 
