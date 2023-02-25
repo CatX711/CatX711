@@ -5,6 +5,9 @@ I'm a 12 year old kid, who's currently working a lot on his coding projects, sup
 his father (tu2- go check him out. He codes some cool stuff! https://github.com/tu2).
 I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.
 
+dan_walk.gif![image](https://user-images.githubusercontent.com/104099162/221357472-1e345e0e-635e-4fa9-9df4-8e01de64de39.png)
+
+
 # Currently working on: A Discord Bot! 
 
 I am currently working on a discord bot, which i will tamper with in my free time.
@@ -27,7 +30,7 @@ I recorded as much stuff in there as possible, like Coffee Game and Forge-Battle
 But, alas, after a solid 7 months or so, I got bored. Again. 🤦‍♂️
 Recently, I got back into coding. It's been very fun, and I hope to not get bored of it anymore.
 I love harnessing my imagination and knowledge of python to make my own little stories. 
-My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS and it's revamped versions (which I have not uploaded to github... yet. Update: I have now!) and Generic Coffee Game, my first, proper, meaningful game that's kind of fun to play.
+My favourite things I have made are probably... The T.A.R.D.I.S series, Pie OS and it's revamped versions and Generic Coffee Game, my first, proper, meaningful game that's kind of fun to play.
 
 
 
