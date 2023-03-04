@@ -17,7 +17,7 @@ The code will be uploaded soon.
 
 # And...
 
-A website! Me and Tu2 will be working on our own website together.
+A website! Me and tu2 will be working on our own website together.
 
 <img width="872" alt="image" src="https://user-images.githubusercontent.com/104099162/222896956-eff7464e-6245-46f1-90da-0490168fd2aa.png">
 
