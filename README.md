@@ -13,6 +13,15 @@ I'm not sure how you stumbled upon my profile, but feel free to stay as long as 
 I am currently working on a discord bot, which i will tamper with in my free time.
 The code will be uploaded soon.
 
+# And...
+
+A website! Me and Tu2 will be working on our own website together.
+
+<img width="872" alt="image" src="https://user-images.githubusercontent.com/104099162/222896956-eff7464e-6245-46f1-90da-0490168fd2aa.png">
+
+Go check him out!
+https://github.com/tu2
+
 <img width="705" alt="image" src="https://user-images.githubusercontent.com/104099162/221357300-5665af42-3422-4b3b-822d-49193ac76bf3.png">
 
 ## How I started Programming and Various Stuff I've Done 💻
