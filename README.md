@@ -17,12 +17,9 @@ The code will be uploaded soon.
 
 # And...
 
-A website! Me and tu2 will be working on our own website together.
+My HTML repository is going to be in use again! Finally, i got my css code working :D
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/104099162/222896956-eff7464e-6245-46f1-90da-0490168fd2aa.png">
-
-Go check him out!
-https://github.com/tu2
+<img width="1156" alt="image" src="https://user-images.githubusercontent.com/104099162/227646364-cdc72aa9-21d1-4019-b2be-87c3cd496398.png">
 
 
 ## How I started Programming and Various Stuff I've Done 💻
