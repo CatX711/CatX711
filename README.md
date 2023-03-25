@@ -36,7 +36,7 @@ told me about ever since 2020. Github! CatX711 was born!
 I recorded as much stuff in there as possible, like Coffee Game and Forge-Battle, and plenty more was tucked away in PyCharm.
 But, alas, after a solid 7 months or so, I got bored. Again. 🤦‍♂️
 Recently, I got back into coding. It's been very fun, and I hope to not get bored of it anymore.
-I love harnessing my imagination and knowledge of python to make my own little stories. 
+I love harnessing my imagination and knowledge of programming to make my own little stories. And recently, I've moved on to more advanced things, like programming in Html, and CSS!
 
 
 
