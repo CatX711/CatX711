@@ -17,6 +17,9 @@ website designing company.
 
 (Dont worry, notable inc isnt actually copyrighted.)
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/104099162/229918034-a257e2fc-918e-4c08-bca0-374a731fbc0f.png">
+
+
 ## How I started Programming and Various Stuff I've Done 💻
 
 I wrote my first lines of code when I was around 6/7. I can still remember my dad trying to teach me some very basic python.
