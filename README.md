@@ -7,20 +7,15 @@ I'm not sure how you stumbled upon my profile, but feel free to stay as long as 
 
 ![gif](https://user-images.githubusercontent.com/104099162/221357472-1e345e0e-635e-4fa9-9df4-8e01de64de39.png)
 
+# BIG NEWS!!!! :D
 
-# Currently working on: A Discord Bot! 
+Guess what? GUESS WHAT?!!!
+I've mastered the art of css and created a multipage, responsive website for a fictional
+website designing company.
 
-I am currently working on a discord bot, which i will tamper with in my free time.
-The code will be uploaded soon.
+"Notable Inc. &copy;"
 
-<img width="705" alt="image" src="https://user-images.githubusercontent.com/104099162/221357300-5665af42-3422-4b3b-822d-49193ac76bf3.png">
-
-# And...
-
-My HTML repository is going to be in use again! Finally, i got my css code working :D
-
-<img width="1156" alt="image" src="https://user-images.githubusercontent.com/104099162/227646364-cdc72aa9-21d1-4019-b2be-87c3cd496398.png">
-
+(Dont worry, notable inc isnt actually copyrighted.)
 
 ## How I started Programming and Various Stuff I've Done 💻
 
