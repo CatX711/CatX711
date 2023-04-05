@@ -10,11 +10,13 @@ I'm not sure how you stumbled upon my profile, but feel free to stay as long as 
 
 Guess what? GUESS WHAT?!!!
 I've mastered the art of css and created a multipage, responsive website for a fictional
-website designing company.
+website designing company. And anyone can access it :D
 
 "Notable Inc. &copy;"
 
 (Dont worry, notable inc isnt actually copyrighted.)
+
+Link: https://resilient-gumption-7417cf.netlify.app
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/104099162/229918034-a257e2fc-918e-4c08-bca0-374a731fbc0f.png">
 
