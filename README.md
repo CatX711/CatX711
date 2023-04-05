@@ -19,7 +19,7 @@ website designing company. And anyone can access it :D
 
 Link: https://resilient-gumption-7417cf.netlify.app
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/104099162/229918034-a257e2fc-918e-4c08-bca0-374a731fbc0f.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/104099162/229918034-a257e2fc-918e-4c08-bca0-374a731fbc0f.png">
 
 <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
