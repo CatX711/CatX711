@@ -1,7 +1,7 @@
 # Hey! 👋 I'm Daniel!
 
 Hello! 😀 I'm Notable! I'm a beginner in web development and programming, who's currently working a lot on his coding projects,
-supported by coding partner: tu2- go check him out. He codes some cool stuff! https://github.com/tu2).
+supported by coding partner: tu2- go check him out. He codes some cool stuff! https://github.com/tu2)
 I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.
 
 ![gif](https://user-images.githubusercontent.com/104099162/221357472-1e345e0e-635e-4fa9-9df4-8e01de64de39.png)
