@@ -1,8 +1,8 @@
 # Hey! 👋 I'm Daniel!
 
-Hello! 😀 I'm Notable! I'm a beginner in web development and programming, who's currently working a lot on his coding projects,
-supported by coding partner: tu2- go check him out. He codes some cool stuff! https://github.com/tu2)
-I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.
+<p>Hello! 😀 I'm CatX! I'm a beginner in web development and programming, who's currently working a lot on his coding projects,
+supported by coding partner: <a href="https://github.com/tu2"tu2</a>- go check him out. He codes some cool stuff!
+I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.</p>
 
 ![gif](https://user-images.githubusercontent.com/104099162/221357472-1e345e0e-635e-4fa9-9df4-8e01de64de39.png)
 
@@ -34,7 +34,7 @@ I found a spare laptop in our garage, and I started using it to make python stuf
 Sadly, the laptop no longer works, but I can still remember some of the code. It was primitive, sure. But full of passion.
 After that, I got bored again, and took a year long break. After that, I randomly had an idea to make a game about the...
 Tardis, for... some reason? I don't know. Still, I had a blast making it, and recorded it all in something my dad had
-told me about ever since 2020. Github! Notable was born!
+told me about ever since 2020. Github! CatX was born!
 I recorded as much stuff in there as possible, like Coffee Game and Forge-Battle, and plenty more was tucked away in PyCharm.
 But, alas, after a solid 7 months or so, I got bored. Again. 🤦‍♂️
 Recently, I got back into coding. It's been very fun, and I hope to not get bored of it anymore.
