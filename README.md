@@ -21,10 +21,6 @@ Link: https://resilient-gumption-7417cf.netlify.app
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/104099162/229918034-a257e2fc-918e-4c08-bca0-374a731fbc0f.png">
 
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 ## How I started Programming and Various Stuff I've Done 💻
 
 I wrote my first lines of code when I was around 6/7. I can still remember my dad trying to teach me some very basic python.
@@ -40,14 +36,13 @@ I recorded as much stuff in there as possible, like Coffee Game and Forge-Battle
 But, alas, after a solid 7 months or so, I got bored. Again. 🤦‍♂️
 Recently, I got back into coding. It's been very fun, and I hope to not get bored of it anymore.
 I love harnessing my imagination and knowledge of programming to make my own little stories. And recently, I've moved on to more advanced things, like programming in Html, and CSS!
+Have a great day ;D
 
+<em>- Daniel C 👨🏻‍💻</em>
 
-
-
-
-*haha python go brrrrrr 👨🏻‍💻*
-
-*- Daniel C.*
+<p>
+<img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 <!---
