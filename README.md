@@ -21,7 +21,7 @@ Company name:
 
 (Dont worry, notable inc isnt actually copyrighted.)
 
-Link: https://resilient-gumption-7417cf.netlify.app
+Link: https://resilient-gumption-7417cf.netlify.app <br />
 Don't question the name, its an auto generated one as I forgot to <br />
 enter in my own url name, lol.
 
