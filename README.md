@@ -11,7 +11,7 @@ I'm not sure how you stumbled upon my profile, but feel free to stay as long as 
 
 Guess what? GUESS WHAT?!!!
 I've mastered the art of css and created a multipage, responsive website for a fictional
-website designing company. And anyone can access it :D
+website designing company. And anyone can access it :D <br />
 And currently, I'm learning JavaScript (pray for me, it's almost too much for a 12 year old to handle), so I will
 be implementing that in future websites.
 
