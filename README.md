@@ -15,11 +15,16 @@ website designing company. And anyone can access it :D
 And currently, I'm learning JavaScript (pray for me, it's almost too much for a 12 year old to handle), so I will
 be implementing that in future websites.
 
+Company name:
+
 "Notable Inc. &copy;"
 
 (Dont worry, notable inc isnt actually copyrighted.)
 
 Link: https://resilient-gumption-7417cf.netlify.app
+Don't question the name, its an auto generated one as I forgot to <br />
+enter in my own url name, lol.
+
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/104099162/229918034-a257e2fc-918e-4c08-bca0-374a731fbc0f.png">
 
