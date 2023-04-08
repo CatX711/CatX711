@@ -1,6 +1,12 @@
 
 <p align="center">  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20There!%20👋%20I'm%20Daniel!;Im%20an%20aspiring%20Software%20Developer;I'm%20Always%20learning%20new%20tech!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a></p>
 
+<p align="center">
+ 💎 💎 💎 </br>
+ Coding every day, learning every time.<br>
+ Always going beyond my limits!<br>
+</p>
+
 <br />
 <br />
 
@@ -74,6 +80,12 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 <br />
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=CatX711&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C1897&fire=C913DD&currStreakLabel=BF12D2"></p>
+
+<br />
+<br />
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
 
 <br />
 <br />
