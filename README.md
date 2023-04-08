@@ -10,18 +10,20 @@
 <br />
 <br />
 
-# About Me:
->Talk is cheap. Show me the code. <br />
-><br />
->-Linus Torvalds
+# Hello, world!
+
+> Talk is cheap. Show me the code.
+>
+> -Linus Torvalds
 
 
-<p>Hello! 😀 I'm CatX! I'm a beginner in web development and programming, who's currently working a lot on his coding projects,
+<img width="854" alt="html1" src="https://user-images.githubusercontent.com/104099162/230735552-dce50ff7-f9ce-4959-b251-6f377545c8fe.png">
+
+<p>Hello! 😀 I'm CatX! I'm a ***beginner*** in ***web development*** and programming, who's currently working a lot on his coding projects,
 supported by my coding partner: <a href="https://github.com/tu2">tu2</a>- go check him out. He codes some cool stuff!
 <br />
 I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.</p>
 
-![gif](https://user-images.githubusercontent.com/104099162/221357472-1e345e0e-635e-4fa9-9df4-8e01de64de39.png)
 
 
 
