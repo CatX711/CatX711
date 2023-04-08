@@ -68,9 +68,11 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 
 ****
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/> 
+ 
 # Fun-Facts
 
-<ul>
+<ul align="left">
   <li>I like programming (obviously) 👨🏻‍💻</li>
   <li>I enjoy writing books 📚</li>
   <li>MacOS user <em>(and I prefer linux over windows, dont even get me started on the windows command line!) 💻</em></li>
@@ -83,6 +85,8 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 <br />
 <br />
 <br />
+
+****
 
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatX711&layout=compact&hide=html&theme=dracula"/> <img height="150" src="https://github-readme-stats.vercel.app/api?username=CatX711&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
@@ -132,4 +136,4 @@ Have a great day ;D
 CatX711/CatX711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+
