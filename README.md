@@ -94,16 +94,19 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 
 ****
 
+## Stats
+
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatX711&layout=compact&hide=html&theme=dracula"/> <img height="150" src="https://github-readme-stats.vercel.app/api?username=CatX711&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
 </p>
 <br />
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=CatX711&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C1897&fire=C913DD&currStreakLabel=BF12D2">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=CatX711&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C1897&fire=C913DD&currStreakLabel=BF12D2">
 </p>
 
 <br />
 <br />
+
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
