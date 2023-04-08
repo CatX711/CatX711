@@ -70,7 +70,7 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/> 
  
-**Skills :** Python, Html, Csss, JavaScript
+**Skills :** Python, Html, Css, JavaScript
 </br>
 **Tools :** Git, Github, Sublime Text, MacBook Air 
 
