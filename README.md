@@ -11,6 +11,10 @@
 <br />
 
 # About Me:
+>Talk is cheap. Show me the code. <br />
+><br />
+>-Linus Torvalds
+
 
 <p>Hello! 😀 I'm CatX! I'm a beginner in web development and programming, who's currently working a lot on his coding projects,
 supported by my coding partner: <a href="https://github.com/tu2">tu2</a>- go check him out. He codes some cool stuff!
@@ -113,6 +117,8 @@ Have a great day ;D
 <p align="center">
 <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+****
 
 <img height="120" alt="Thanks for visiting my profile! Have a great Day :D" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!---
