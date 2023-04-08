@@ -114,6 +114,8 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 <br />
 <br />
 
+
+
 <!--
 ## How I started Programming and Various Stuff I've Done 💻
 
@@ -134,7 +136,10 @@ Have a great day ;D
 
 <em>- Daniel C 👨🏻‍💻</em>
 -->
-
+And that's all, folks! 
+<br />
+<br />
+<br />
 
 ****
 
