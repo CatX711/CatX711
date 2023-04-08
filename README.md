@@ -70,6 +70,11 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/> 
  
+**Skills :** Python, Html, Csss, JavaScript
+</br>
+**Tools :** Git, Github, Sublime Text, MacBook Air 
+
+
 # Fun-Facts
 
 <ul align="left">
@@ -125,9 +130,13 @@ Have a great day ;D
 
 <em>- Daniel C 👨🏻‍💻</em>
 -->
+I spend way too long on writing notes. Half of what you see below this:
+
 <p align="center">
 <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+Is from me constantly updating projects with comments!!! 💀
 
 ****
 
