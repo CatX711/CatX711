@@ -1,7 +1,7 @@
 # Hey! 👋 I'm Daniel!
 
 <p>Hello! 😀 I'm CatX! I'm a beginner in web development and programming, who's currently working a lot on his coding projects,
-supported by coding partner: <a href="https://github.com/tu2">tu2</a>- go check him out. He codes some cool stuff!
+supported by my coding partner: <a href="https://github.com/tu2">tu2</a>- go check him out. He codes some cool stuff!
 <br />
 I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.</p>
 
@@ -43,8 +43,28 @@ enter in my own url name, lol.
 I've stopped using python and linux but I still like both of them. :)
 <br />
 Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build websites as testing grounds for my skills!
+<br />
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=CatX711&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C1897&fire=C913DD&currStreakLabel=BF12D2">
+
+****
+
+# Fun-Facts
+
+<ul>
+  <li>I like programming (obviously) 👨🏻‍💻</li>
+  <li>I enjoy writing books 📚</li>
+  <li>MacOS user <em>(and I prefer linux over windows, dont even get me started on the windows command line!) 💻</em></li>
+  <li>My father, who used to be a software dev, taught me programming 👨🏻</li>  
+  <li>I think that computers suck at adding decimal numbers 🖥️</li>  
+  <li>AI is cool lol 🤖</li>
+</ul>
+
+<br />
+<br />
+<br />
+<br />
+
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=CatX711&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C1897&fire=C913DD&currStreakLabel=BF12D2"></p>
 
 <!--
 ## How I started Programming and Various Stuff I've Done 💻
