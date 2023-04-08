@@ -66,6 +66,9 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=CatX711&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C1897&fire=C913DD&currStreakLabel=BF12D2"></p>
 
+<br />
+<br />
+
 <!--
 ## How I started Programming and Various Stuff I've Done 💻
 
@@ -86,7 +89,7 @@ Have a great day ;D
 
 <em>- Daniel C 👨🏻‍💻</em>
 -->
-<p>
+<p align="center">
 <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
