@@ -84,7 +84,6 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
   <li>My father, who used to be a software dev, taught me programming 👨🏻</li>  
   <li>I think that computers suck at adding decimal numbers 🖥️</li>  
   <li>AI is cool lol 🤖</li>
-  <li>I spend way too long on writing notes in comments 📝</li>
 </ul>
 
 <br />
