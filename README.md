@@ -109,7 +109,7 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CatX711&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
 
 <br />
 <br />
