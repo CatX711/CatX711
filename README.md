@@ -7,7 +7,11 @@ I'm not sure how you stumbled upon my profile, but feel free to stay as long as 
 
 ![gif](https://user-images.githubusercontent.com/104099162/221357472-1e345e0e-635e-4fa9-9df4-8e01de64de39.png)
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a
+
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 # BIG NEWS!!!! :D
 
