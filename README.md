@@ -1,6 +1,5 @@
-# Hey! 👋 I'm Daniel!
 
-<a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20BThere!%20👋%20I'm%20Daniel!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<p align="center"><a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20There!%20👋%20I'm%20Daniel!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a></p>
 
 <p>Hello! 😀 I'm CatX! I'm a beginner in web development and programming, who's currently working a lot on his coding projects,
 supported by my coding partner: <a href="https://github.com/tu2">tu2</a>- go check him out. He codes some cool stuff!
