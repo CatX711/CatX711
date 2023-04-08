@@ -22,12 +22,14 @@ Company name:
 
 (Dont worry, notable inc isnt actually copyrighted.)
 
+<br />
+<br />
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/104099162/229918034-a257e2fc-918e-4c08-bca0-374a731fbc0f.png">
+
 >Link: https://resilient-gumption-7417cf.netlify.app <br />
 Don't question the name, its an auto generated one as I forgot to <br />
 enter in my own url name, lol.
-
-
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/104099162/229918034-a257e2fc-918e-4c08-bca0-374a731fbc0f.png">
 
 <br />
 <br />
