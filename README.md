@@ -1,5 +1,5 @@
 
-<p align="center">  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20There!%20👋%20I'm%20Daniel!;%20I%20am%20an%20aspiring%20Software%20Developer;I'm%20Always%20learning%20new%20tech!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a></p>
+<p align="center">  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20There!%20👋%20I'm%20Daniel!;I%20am%20an%20aspiring%20Software%20Developer;I'm%20Always%20learning%20new%20tech!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a></p>
 
 <br />
 <br />
