@@ -97,7 +97,7 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 ## Stats
 
 <p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatX711&layout=compact&hide=html&theme=dracula"/> <img height="150" src="https://github-readme-stats.vercel.app/api?username=CatX711&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatX711&layout=compact&hide=html&theme=gray"/> <img height="150" src="https://github-readme-stats.vercel.app/api?username=CatX711&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
 </p>
 <br />
 <p align="center">
