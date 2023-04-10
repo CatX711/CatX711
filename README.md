@@ -24,7 +24,7 @@
 I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.</p>
 
 
-
+<!--
 
 # BIG NEWS!!!! :D
 
@@ -52,6 +52,8 @@ enter in my own url name, lol.
 <br />
 <br />
 <br />
+
+-->
 
 ****
 
