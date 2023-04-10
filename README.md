@@ -101,7 +101,7 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 </p>
 <br />
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=CatX711&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C1897&fire=C913DD&currStreakLabel=BF12D2">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=CatX711&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C1897&fire=C913DD&currStreakLabel=BF12D2">
 </p>
 
 <br />
