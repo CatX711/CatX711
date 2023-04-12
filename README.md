@@ -7,10 +7,6 @@
  Always going beyond my limits!<br>
 </p>
 
-## Current view count:
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=CatX711)
-
 <br />
 <br />
 
