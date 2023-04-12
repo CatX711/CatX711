@@ -9,7 +9,7 @@
 
 ## Current view count:
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=CatX711)
 
 <br />
 <br />
