@@ -109,6 +109,10 @@ Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build 
 <br />
 <br />
 
+## Hey! You there! Here is a random joke that'll make you laugh!
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=CatX711&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
