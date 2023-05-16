@@ -67,14 +67,14 @@ I've stopped using python and linux but I still like both of them. :)
 Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build websites as testing grounds for my skills!
 <br />
 
-
-****
-
-<!-- -->
- 
 **Skills :** Python, Html, Css, JavaScript
 </br>
 **Tools :** Git, Github, Sublime Text, MacBook Air 
+
+<br />
+<br />
+
+****
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/> 
 
