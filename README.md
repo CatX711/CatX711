@@ -19,7 +19,7 @@
 
 <img width="854" alt="html1" src="https://user-images.githubusercontent.com/104099162/230735552-dce50ff7-f9ce-4959-b251-6f377545c8fe.png">
 
-<p>Hello! 😀 I'm CatX! I'm an 11 year old <em>beginner</em> in <em>web development</em> and programming, currently working a lot on coding projects, sometimes with my dad: <a href="https://github.com/tu2">tu2</a>- go check him out. He codes some cool stuff!
+<p>Hello! 😀 I'm CatX! I'm an 12 year old <em>beginner</em> in <em>web development</em> and programming, currently working a lot on coding projects, sometimes with my dad: <a href="https://github.com/tu2">tu2</a>- go check him out. He codes some cool stuff!
 <br />
 I'm not sure how you stumbled upon my profile, but feel free to stay as long as you want.</p>
 
