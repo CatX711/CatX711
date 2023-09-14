@@ -24,7 +24,7 @@
 
 <p>Hello, I'm a 12 year old <em>beginner</em> in <em>web development</em> and programming, currently working a lot on coding projects, sometimes with my dad: <a href="https://github.com/tu2">tu2</a>- go check him out. He codes some cool stuff!
 <br />
-I write books and I've demonstrated that in my 5000+ word books on my fictional programming languages, GreetLang and GreetLang+ respectively. Go check out LingoLang! Programming is my side hobby, I'm more of a literature, but feel free to check out my stuff! <br /> <br />
+I write books and I've demonstrated that in my 5000+ word books on my fictional programming languages, GreetLang and GreetLang+ respectively. Go check out LingoLang! Programming is my side hobby, I'm more of a literature guy, but feel free to check out my stuff! <br /> <br />
 Not quite sure how you stumbled upon my profile, but stay as long as you want 😺</p>
 
 <br />
