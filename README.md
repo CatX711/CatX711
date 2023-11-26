@@ -72,12 +72,12 @@ enter in my own url name, lol.
 
 I've stopped using python and linux but I still like both of them. :)
 <br />
-Now I have moved on to using MacOS, Javascript, HTML5 and CSS3. I like to build websites as testing grounds for my skills!
+Now I have moved on to using MacOS or Windows, Javascript, HTML5 and CSS3. <!-- I like to build websites as testing grounds for my skills! -->
 <br />
 
-**Skills :** Python, Html, Css, JavaScript
+**Skills :** Python, Golang, Html, Css, JavaScript
 </br>
-**Tools :** Git, Github, Sublime Text, MacBook Air
+**Tools :** Git, Github, VSCode, Sublime Text, MacBook Air, Windows
 
 <br />
 <br />
