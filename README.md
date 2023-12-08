@@ -63,6 +63,8 @@ enter in my own url name, lol.
 
 -->
 
+<!--
+
 ****
 
 # Things I use/used to use!
@@ -72,7 +74,7 @@ enter in my own url name, lol.
 
 I've stopped using python and linux but I still like both of them. :)
 <br />
-Now I have moved on to using MacOS or Windows, Javascript, HTML5 and CSS3. <!-- I like to build websites as testing grounds for my skills! -->
+Now I have moved on to using MacOS or Windows, Javascript, HTML5 and CSS3. <!-- I like to build websites as testing grounds for my skills! 
 <br />
 
 **Skills :** Python, Golang, Html, Css, JavaScript
@@ -101,6 +103,8 @@ Now I have moved on to using MacOS or Windows, Javascript, HTML5 and CSS3. <!-- 
 <br />
 <br />
 <br />
+
+--->
 
 ****
 
